@@ -4,7 +4,7 @@
 
 Decentralised peer-to-peer lending for groups of people. A borrower asks for a loan together with co-borrowers from their own circle, the group approves it, and the loan is granted on-chain — without a bank in the middle.
 
-Built with Vite, React, TypeScript and Tailwind CSS during Hack México 2024. Prototype, not a production lending product.
+Built by a team with Vite, React, TypeScript and Tailwind CSS during Hack México — AngelHack Hackathon, April 2024, where María José Vázquez Cornejo was Team Lead. Prototype, not a production lending product, and not a solo project.
 
 ## How it works
 
